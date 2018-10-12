@@ -1,0 +1,60 @@
+ #intro-text{
+            color: #fff;
+        }
+        body{
+            /*background-image: url("img.jpg");*/
+            height: 100vh;
+            width: 100%;
+            background-repeat: no-repeat;
+            background-size: cover;
+            font-family: 'Montserrat', sans-serif;
+        }
+         #typed {
+  color:#FFF;
+  
+  letter-spacing: 2px;
+}
+
+#particles-js {
+  width: 100%;
+  height: 100%;
+  background-color: #56973C;
+}
+.particle_content{
+  color: white;
+  font-size: 35px;                                    
+  font-family: 'Raleway', sans-serif;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+}
+.particle_content #typed{
+ font-weight: bold;
+}
+
+     
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    
+
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+.card{
+  width:100%;
+ 
+}
